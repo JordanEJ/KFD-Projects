@@ -9,7 +9,8 @@ Just a list of projects that are using the [KFD exploit](https://github.com/feli
 | [Picasso v2](https://repo.sourceloc.net/packages/picasso) | System-Wide Customisation With KFD | ❌ | ✔️ |
 | [PureKFD](https://github.com/Lrdsnow/PureKFD) | A Free Reverse-Engineered Picasso  | ❌ | ✔️ |
 | [SimpleKFD](https://github.com/Lrdsnow/SimpleKFD) | KFD Tweaks to Customise Your Device | ✔️ | ✔️ |
-| [Taurine-KFD](https://github.com/pwnd2e/Taurine-KFD) | Taurine Jailbreak Ported To KFD  | ✔️ | ❌ |
+| [Taurine](https://github.com/Odyssey-Team/Taurine/tree/kfd) | Official Taurine Jailbreak Updated To Support KFD  | ✔️ | ✔️ |
+| [Taurine-KFD](https://github.com/pwnd2e/Taurine-KFD) | Un-Official Taurine Jailbreak Ported To KFD  | ✔️ | ❌ |
 
 ---
 
