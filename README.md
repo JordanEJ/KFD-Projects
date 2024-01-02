@@ -13,6 +13,7 @@ Just a list of projects that are using the [KFD exploit](https://github.com/feli
 | [SimpleKFD](https://github.com/Lrdsnow/SimpleKFD) | KFD Tweaks to Customise Your Device | ✔️ | ✔️ |
 | [Taurine](https://github.com/Odyssey-Team/Taurine/tree/kfd) | Official Taurine Jailbreak Updated To Support KFD (iOS 14.0 - 14.8.1)  | ✔️ | ✔️ |
 | [Taurine-KFD](https://github.com/pwnd2e/Taurine-KFD) | Un-Official Taurine Jailbreak Ported To KFD  | ✔️ | ❌ |
+| [XinaA15](https://apt.xina.vip/) | Semi-untethered JB for iOS 15.0-15.4.1  | ❌ | ✔️ |
 
 ---
 
