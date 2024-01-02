@@ -5,6 +5,7 @@ Just a list of projects that are using the [KFD exploit](https://github.com/feli
 | ---- | ----------- | -------------- | --------------- |
 | [Cluckabunga](https://github.com/leminlimez/Cluckabunga) | Cowabunga Tool Ported To KFD Devices | ❌ | ✔️ |
 | [KFDFontOverwrite](https://github.com/Lrdsnow/KFDFontOverwrite) | Custom Fonts On KFD Devices | ❔ | ✔️ |
+| [Meowbreak2](https://kok3shidoll.github.io/download/secret/meowbrek2.txt) | A tool to re-jailbreak palera1n. (Semi-untethered) | ✔️ | ❌ |
 | [Misaka](https://github.com/straight-tamago/misaka) | A KFD Package Manager | ✔️ | ✔️ |
 | [NekoJB](https://nekojb.hhls.xyz/) | KFD Based Jailbreak (WIP) | ✔️ | ❌ |
 | [Picasso](https://repo.sourceloc.net/packages/picasso) | System-Wide Customisation With KFD | ❌ | ✔️ |
