@@ -7,7 +7,7 @@ Just a list of projects that are using the [KFD exploit](https://github.com/feli
 | [KFDFontOverwrite](https://github.com/Lrdsnow/KFDFontOverwrite) | Custom Fonts On KFD Devices | ❔ | ✔️ |
 | [Misaka](https://discord.gg/misakaproject) | A KFD Package Manager | ✔️ | ✔️ |
 | [NekoJB](https://nekojb.hhls.xyz/) | KFD Based Jailbreak (WIP) | ✔️ | ❌ |
-| [Picasso v2](https://repo.sourceloc.net/packages/picasso) | System-Wide Customisation With KFD | ❌ | ✔️ |
+| [Picasso](https://repo.sourceloc.net/packages/picasso) | System-Wide Customisation With KFD | ❌ | ✔️ |
 | [PureKFD](https://github.com/Lrdsnow/PureKFD) | A Free Reverse-Engineered Picasso  | ✔️ | ✔️ |
 | [SimpleKFD](https://github.com/Lrdsnow/SimpleKFD) | KFD Tweaks to Customise Your Device | ✔️ | ✔️ |
 | [Taurine](https://github.com/Odyssey-Team/Taurine/tree/kfd) | Official Taurine Jailbreak Updated To Support KFD (iOS 14.0 - 14.8.1)  | ✔️ | ✔️ |
