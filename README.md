@@ -5,7 +5,7 @@ Just a list of projects that are using the [KFD exploit](https://github.com/feli
 | ---- | ----------- | -------------- | --------------- |
 | [Cluckabunga](https://github.com/leminlimez/Cluckabunga) | Cowabunga Tool Ported To KFD Devices | ❌ | ✔️ |
 | [KFDFontOverwrite](https://github.com/Lrdsnow/KFDFontOverwrite) | Custom Fonts On KFD Devices | ❔ | ✔️ |
-| [Misaka](https://discord.gg/misakaproject) | A KFD Package Manager | ✔️ | ✔️ |
+| [Misaka](https://github.com/straight-tamago/misaka) | A KFD Package Manager | ✔️ | ✔️ |
 | [NekoJB](https://nekojb.hhls.xyz/) | KFD Based Jailbreak (WIP) | ✔️ | ❌ |
 | [Picasso](https://repo.sourceloc.net/packages/picasso) | System-Wide Customisation With KFD | ❌ | ✔️ |
 | [PureKFD](https://github.com/Lrdsnow/PureKFD) | A Free Reverse-Engineered Picasso  | ✔️ | ✔️ |
